@@ -26,3 +26,13 @@ Depois que todas as pessoas da equipe terminarem o projeto, revisem os passos a 
 ## Links
 
 Tenha certeza de enviar o link do repositório do Github.
+
+////////////////////////////////////////////////////////////
+
+#Entrega: Trabalhando em equipe com git.
+
+## Fato sobre Thiago Monserrat
+
+1. Thiago Henrique Monserrat Rezende;
+2. Eu amo viver <3;
+3. Desde muito novo sempre tive contato com a tecnologia, mas so depois de mais velho tive interresse na programação;
